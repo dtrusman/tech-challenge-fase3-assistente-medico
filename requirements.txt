@@ -4,6 +4,9 @@ transformers>=4.48
 peft>=0.20
 datasets>=3.0
 accelerate>=1.0
+# O Colab já vem com torchao pré-instalado, geralmente em versão antiga demais
+# para as versões recentes do transformers (ImportError ao carregar o modelo).
+torchao>=0.16.0
 
 # RAG / LangChain / LangGraph
 langchain
