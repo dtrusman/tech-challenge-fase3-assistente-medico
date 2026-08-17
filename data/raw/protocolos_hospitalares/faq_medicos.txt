@@ -1,0 +1,29 @@
+HOSPITAL VIDA PLENA — PERGUNTAS FREQUENTES DE MÉDICOS (FAQ INTERNO)
+Código: FAQ-CLIN-001 | Versão: 1.0
+
+P: Qual o tempo máximo para início de antibioticoterapia em paciente com
+   suspeita de sepse?
+R: Até 60 minutos após identificação de qSOFA >= 2, conforme PROT-INF-001.
+
+P: Posso usar nifedipina sublingual em crise hipertensiva?
+R: Não. O uso está contraindicado pelo risco de queda abrupta e descontrolada
+   da pressão arterial, conforme PROT-CARD-004.
+
+P: Qual exame não deve ser solicitado em paciente com suspeita de dengue e por quê?
+R: Evitar prescrição de AINEs (não é exame, é conduta terapêutica contraindicada)
+   pelo risco de sangramento, conforme PROT-INF-007. Hemograma seriado é
+   recomendado para acompanhar hematócrito e plaquetas.
+
+P: Qual a meta glicêmica para paciente crítico internado em UTI?
+R: Entre 140 e 180 mg/dL, evitando metas mais rígidas pelo risco de
+   hipoglicemia, conforme PROT-END-002.
+
+P: Em que situação o sistema deve emitir um alerta crítico automático para a
+   equipe médica?
+R: Nas condições descritas em cada protocolo interno, como lactato >= 4 mmol/L
+   (sepse), glicemia < 70 mg/dL (hipoglicemia) ou queda de plaquetas < 50.000/mm³
+   (dengue grupo C/D), entre outras definidas pelos protocolos vigentes.
+
+P: O assistente virtual pode prescrever medicação diretamente?
+R: Não. O assistente pode sugerir condutas com base nos protocolos internos,
+   mas toda prescrição final exige validação humana de um médico habilitado.

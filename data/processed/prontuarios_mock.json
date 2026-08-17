@@ -1,0 +1,60 @@
+{
+  "P-0001": {
+    "paciente_id": "P-0001",
+    "idade": 68,
+    "sexo": "F",
+    "setor": "Pronto-Socorro",
+    "sinais_vitais": {
+      "pa_sistolica": 92,
+      "pa_diastolica": 58,
+      "frequencia_respiratoria": 24,
+      "temperatura_c": 38.9,
+      "glasgow": 14
+    },
+    "exames_pendentes": ["lactato", "hemocultura", "funcao_renal"],
+    "exames_resultados": {
+      "hemograma": "leucocitose com desvio a esquerda"
+    },
+    "hipotese_diagnostica": "suspeita de foco infeccioso abdominal",
+    "alergias": ["dipirona"],
+    "comorbidades": ["diabetes tipo 2"]
+  },
+  "P-0002": {
+    "paciente_id": "P-0002",
+    "idade": 54,
+    "sexo": "M",
+    "setor": "Clínica Médica",
+    "sinais_vitais": {
+      "pa_sistolica": 190,
+      "pa_diastolica": 124,
+      "frequencia_respiratoria": 18,
+      "temperatura_c": 36.5,
+      "glasgow": 15
+    },
+    "exames_pendentes": ["ecg", "funcao_renal", "eletrolitos"],
+    "exames_resultados": {},
+    "hipotese_diagnostica": "crise hipertensiva a esclarecer",
+    "alergias": [],
+    "comorbidades": ["hipertensao_arterial"]
+  },
+  "P-0003": {
+    "paciente_id": "P-0003",
+    "idade": 29,
+    "sexo": "F",
+    "setor": "Pronto-Socorro",
+    "sinais_vitais": {
+      "pa_sistolica": 110,
+      "pa_diastolica": 70,
+      "frequencia_respiratoria": 18,
+      "temperatura_c": 38.2,
+      "glasgow": 15
+    },
+    "exames_pendentes": ["hemograma_seriado", "plaquetas"],
+    "exames_resultados": {
+      "prova_do_laco": "positiva"
+    },
+    "hipotese_diagnostica": "suspeita de dengue",
+    "alergias": [],
+    "comorbidades": []
+  }
+}

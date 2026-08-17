@@ -1,0 +1,14 @@
+NOTA DE EVOLUÇÃO — USO INTERNO (EXEMPLO DIDÁTICO COM DADOS FICTÍCIOS)
+
+Paciente: Maria Aparecida Souza Lima
+CPF: 123.456.789-00
+Data de nascimento: 14/03/1975
+Telefone: (11) 98765-4321
+E-mail: maria.lima@example.com
+Prontuário nº: 458213
+
+Médico responsável: Dr. Carlos Eduardo Ferreira
+
+Evolução: paciente admitida com quadro de dor abdominal intensa e febre,
+qSOFA = 2. Iniciado protocolo de sepse conforme PROT-INF-001. Coletado
+lactato e hemoculturas antes da antibioticoterapia empírica.

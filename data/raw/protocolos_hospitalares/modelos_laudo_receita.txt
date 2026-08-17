@@ -1,0 +1,29 @@
+HOSPITAL VIDA PLENA — MODELOS INTERNOS DE DOCUMENTOS CLÍNICOS
+Código: MOD-DOC-001 | Versão: 1.0
+
+MODELO DE LAUDO DE EXAME (estrutura padrão)
+- Identificação: paciente, idade, sexo, prontuário (uso interno, não expor em
+  respostas do assistente).
+- Exame realizado e data.
+- Técnica utilizada.
+- Achados descritivos.
+- Impressão diagnóstica.
+- Médico responsável e CRM.
+- Observação: laudos devem ser assinados digitalmente pelo médico responsável.
+
+MODELO DE RECEITA MÉDICA (estrutura padrão)
+- Identificação do paciente.
+- Nome do medicamento (princípio ativo preferencialmente), concentração,
+  forma farmacêutica, posologia, via de administração e duração do tratamento.
+- Assinatura e carimbo do médico prescritor com CRM.
+- Observação: o assistente virtual NUNCA deve gerar o campo de posologia final
+  sem indicar explicitamente que é uma sugestão sujeita a validação médica.
+
+MODELO DE NOTA DE EVOLUÇÃO / PROCEDIMENTO INTERNO
+- Data e hora.
+- Motivo da avaliação.
+- Exame físico relevante.
+- Hipótese diagnóstica.
+- Conduta adotada e justificativa.
+- Pendências (exames solicitados, reavaliações agendadas).
+- Assinatura do profissional responsável.

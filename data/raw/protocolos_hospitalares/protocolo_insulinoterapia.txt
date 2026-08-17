@@ -1,0 +1,28 @@
+HOSPITAL VIDA PLENA — PROTOCOLO CLÍNICO INTERNO
+Código: PROT-END-002 | Versão: 2.0 | Setor: Clínica Médica / UTI
+Assunto: Controle Glicêmico e Insulinoterapia em Pacientes Internados
+
+1. METAS GLICÊMICAS
+- Pacientes críticos (UTI): meta de 140-180 mg/dL.
+- Pacientes não críticos: meta pré-prandial < 140 mg/dL e aleatória < 180 mg/dL.
+- Evitar metas mais rígidas (< 110 mg/dL) pelo risco aumentado de hipoglicemia.
+
+2. MONITORIZAÇÃO
+- Glicemia capilar a cada 4-6h em pacientes em uso de insulina basal-bolus.
+- Glicemia capilar horária em pacientes em bomba de insulina endovenosa contínua.
+
+3. ALERTAS OBRIGATÓRIOS AO TIME
+- Glicemia < 70 mg/dL: alerta crítico imediato para enfermagem e médico
+  assistente (protocolo de hipoglicemia).
+- Glicemia > 300 mg/dL em duas medidas consecutivas: alerta para reavaliação
+  do esquema terapêutico.
+
+4. AJUSTE DE DOSE
+O ajuste de dose de insulina (basal, bolus de correção ou infusão contínua)
+deve seguir a tabela de correção institucional vigente, mas a decisão final
+de alteração de esquema é sempre do médico assistente, especialmente em
+pacientes com função renal alterada, uso de corticoide ou nutrição parenteral.
+
+5. LIMITES DE ATUAÇÃO
+Nenhuma sugestão de ajuste de insulina deste protocolo deve ser aplicada
+automaticamente sem validação humana. Este é um documento de apoio à decisão.

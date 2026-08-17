@@ -1,0 +1,23 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Artefatos gerados (regeneráveis pelo pipeline)
+models/
+logs/
+data/processed/faiss_index/
+data/processed/finetuning_dataset.jsonl
+data/raw/MedQuAD/
+reports/avaliacao_modelo.json
+
+# Ambiente / segredos
+.env
+
+# SO
+.DS_Store

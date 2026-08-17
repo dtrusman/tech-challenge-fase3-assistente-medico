@@ -1,0 +1,38 @@
+HOSPITAL VIDA PLENA — PROTOCOLO CLÍNICO INTERNO
+Código: PROT-INF-001 | Versão: 3.2 | Setor: Pronto-Socorro / UTI
+Assunto: Identificação e Manejo Inicial de Sepse e Choque Séptico
+
+1. RASTREIO
+Aplicar critérios qSOFA em todo paciente com suspeita de infecção:
+- Frequência respiratória >= 22 irpm
+- Alteração do nível de consciência (Glasgow < 15)
+- Pressão arterial sistólica <= 100 mmHg
+qSOFA >= 2 pontos: acionar Protocolo de Sepse (código amarelo interno).
+
+2. PACOTE DA PRIMEIRA HORA ("Hora de Ouro")
+- Coletar lactato sérico.
+- Coletar hemoculturas (2 pares) antes da antibioticoterapia, sem atrasar o início.
+- Iniciar antibioticoterapia empírica de amplo espectro em até 60 minutos.
+- Iniciar reposição volêmica com cristaloide 30 mL/kg em pacientes hipotensos ou
+  com lactato >= 4 mmol/L, a critério médico e conforme resposta hemodinâmica.
+- Reavaliar volemia e perfusão tecidual.
+- Se hipotensão persistente após reposição volêmica, considerar vasopressor
+  (noradrenalina como primeira escolha) para manter PAM >= 65 mmHg.
+
+3. ANTIBIOTICOTERAPIA EMPÍRICA (referência interna — ajustar por foco suspeito e
+   perfil de resistência local; validação obrigatória da equipe de infectologia
+   em até 48h)
+- Foco pulmonar: ceftriaxona + macrolídeo.
+- Foco abdominal: piperacilina-tazobactam.
+- Foco urinário: ceftriaxona ou piperacilina-tazobactam se fatores de risco para
+  multirresistência.
+
+4. ALERTAS OBRIGATÓRIOS AO TIME
+- Lactato >= 4 mmol/L: alerta crítico automático para o médico plantonista e UTI.
+- Ausência de reavaliação em 3h e 6h: alerta de pendência para enfermagem responsável.
+
+5. LIMITES DE ATUAÇÃO
+Este protocolo é uma referência de apoio à decisão clínica. A escolha final do
+esquema antibiótico, da necessidade de vasopressor e da indicação de UTI é sempre
+responsabilidade do médico assistente, considerando o quadro individual do
+paciente. Nenhuma conduta deste protocolo substitui a avaliação clínica presencial.

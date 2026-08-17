@@ -1,0 +1,34 @@
+HOSPITAL VIDA PLENA — PROTOCOLO CLÍNICO INTERNO
+Código: PROT-CARD-004 | Versão: 2.1 | Setor: Pronto-Socorro / Cardiologia
+Assunto: Emergência e Urgência Hipertensiva
+
+1. CLASSIFICAÇÃO
+- Urgência hipertensiva: PA >= 180x120 mmHg SEM lesão aguda de órgão-alvo.
+- Emergência hipertensiva: PA >= 180x120 mmHg COM lesão aguda de órgão-alvo
+  (AVC, edema agudo de pulmão, dissecção de aorta, encefalopatia hipertensiva,
+  síndrome coronariana aguda).
+
+2. CONDUTA — URGÊNCIA HIPERTENSIVA
+- Reduzir PA gradualmente em 24-48h com anti-hipertensivo oral.
+- Reavaliação ambulatorial em até 7 dias.
+- Não indicado uso de nifedipina sublingual (risco de queda abrupta de PA).
+
+3. CONDUTA — EMERGÊNCIA HIPERTENSIVA
+- Monitorização contínua (PA invasiva se disponível) e admissão em unidade
+  de cuidado intensivo ou semi-intensivo.
+- Reduzir PA média em até 25% na primeira hora, exceto em AVC isquêmico
+  (critérios específicos de trombólise) e dissecção de aorta (redução mais
+  agressiva e rápida, meta de FC e PAS específicas).
+- Anti-hipertensivos endovenosos titguláveis (ex.: nitroprussiato de sódio,
+  nitroglicerina, labetalol) conforme órgão-alvo acometido e disponibilidade
+  institucional.
+
+4. EXAMES OBRIGATÓRIOS ANTES DA CONDUTA
+- ECG de 12 derivações, função renal, eletrólitos, exame de urina.
+- TC de crânio se sinais neurológicos focais ou rebaixamento do nível de
+  consciência.
+
+5. LIMITES DE ATUAÇÃO
+A escolha e titulação do anti-hipertensivo endovenoso é decisão exclusiva do
+médico assistente à beira-leito, considerando comorbidades e resposta
+hemodinâmica. Este protocolo não deve ser usado para prescrição automática.

@@ -1,0 +1,31 @@
+HOSPITAL VIDA PLENA — PROTOCOLO CLÍNICO INTERNO
+Código: PROT-INF-007 | Versão: 1.4 | Setor: Pronto-Socorro / Clínica Médica
+Assunto: Classificação de Risco e Manejo da Dengue
+
+1. CLASSIFICAÇÃO DE RISCO (grupos A, B, C, D)
+- Grupo A: sem sinais de alarme, sem comorbidades e sem sangramento espontâneo.
+  Hidratação oral e reavaliação ambulatorial.
+- Grupo B: sangramento de pele espontâneo ou induzido, ou comorbidade de risco
+  (gestante, idoso, diabetes, hipertensão). Solicitar hemograma e observar
+  em leito de retaguarda até resultado.
+- Grupo C: presença de sinal de alarme (dor abdominal intensa, vômitos
+  persistentes, sangramento de mucosa, letargia, hepatomegalia, aumento
+  progressivo do hematócrito). Internação obrigatória e hidratação
+  endovenosa imediata conforme peso.
+- Grupo D: sinais de choque, sangramento grave ou disfunção de órgãos.
+  Internação em UTI e reposição volêmica agressiva imediata.
+
+2. ALERTAS OBRIGATÓRIOS AO TIME
+- Qualquer sinal de alarme identificado: alerta automático para reclassificação
+  de grupo B para C e acionamento do médico assistente.
+- Queda de plaquetas < 50.000/mm³: alerta crítico para equipe médica.
+
+3. CONTRAINDICAÇÕES
+- Não utilizar anti-inflamatórios não esteroidais (AINEs) nem ácido
+  acetilsalicílico em caso de suspeita de dengue, pelo risco de sangramento.
+
+4. LIMITES DE ATUAÇÃO
+A classificação final de risco e a decisão de internação são sempre de
+responsabilidade do médico assistente, com base no exame físico e evolução
+clínica do paciente. Este protocolo apoia, mas não substitui, o julgamento
+clínico presencial.

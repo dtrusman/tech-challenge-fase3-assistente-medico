@@ -1,0 +1,26 @@
+# Fine-tuning
+torch
+transformers>=4.48
+peft>=0.20
+datasets>=3.0
+accelerate>=1.0
+
+# RAG / LangChain / LangGraph
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langgraph
+faiss-cpu
+sentence-transformers
+
+# API e frontend de demonstração (opcional / local)
+fastapi
+uvicorn
+streamlit
+requests
+
+# Utilitários
+python-dotenv
+pydantic
+pandas
